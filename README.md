@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beko3110" alt="beko3110" /></a> </p>
 
-- 🔭 I’m currently working as [Marketing Manager](https://www.c2c-consultancy.com)
+- 🔭 I’m currently working as [Marketing Manager](https://www.c2c-consultancy.com), and Freelancer Devops Engineer, Data Scientist.
 
 - 🌱 I’m currently learning **Professional DevOps Engineer AWS Certification**
 
