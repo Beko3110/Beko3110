@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Mohamed 👋, an aspiring DevOps and Cloud Engineer with a background in digital marketing. I'm passionate about automating infrastructure and streamlining software delivery processes. I'm currently focused on honinf my skills and gaining hands-on experience in CI/CD pipelines, containerization, cloud computing, and configuration management.</h2>
+<h2 align="left">Hi there, I'm Mohamed 👋, an aspiring DevOps and Cloud Engineer with a background in Data Science, and digital marketing. I'm passionate about automating infrastructure and streamlining software delivery processes. I'm currently focused on honinf my skills and gaining hands-on experience in CI/CD pipelines, containerization, cloud computing, and configuration management.</h2>
 <h3 align="center">A passionate DevOps, Cloud Engineer, Data Scientist, Digital Marketer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beko3110&label=Profile%20views&color=0e75b6&style=flat" alt="beko3110" /> </p>
