@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Professional DevOps Engineer AWS Certification**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Beko3110/portfolio](https://github.com/Beko3110/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Beko3110/portfolio](https://beko3110.github.io/portfolio/)
 
 - 📫 How to reach me **mohamed.mustafa.soliman.31@gmail.com**
 
