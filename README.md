@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as [Marketing Manager](https://www.c2c-consultancy.com)
 
-- 🌱 I’m currently learning **The AWS Certified Professional DevOps Engineer**
+- 🌱 I’m currently learning **Professional DevOps Engineer AWS Certification**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Beko3110/portfolio](https://github.com/Beko3110/portfolio)
 
