@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as [Marketing Manager](https://www.c2c-consultancy.com), and Freelancer Devops Engineer, Data Scientist.
 
-- 🌱 I’m currently learning **Professional DevOps Engineer AWS Certification**
+- 🌱 I’m currently learning **MLOps Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Beko3110/portfolio](https://beko3110.github.io/portfolio/)
 
