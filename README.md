@@ -9,7 +9,7 @@ technologies to achieve innovation and cost optimization.</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beko3110" alt="beko3110" /></a> </p>
 
-- 🔭 I’m currently working as Devops Engineer, Data Scientist.
+- 🔭 I’m currently working as **Devops Engineer, Data Scientist**.
 
 - 🌱 I’m currently learning **MLOps Engineering**
 
