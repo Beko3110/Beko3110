@@ -1,11 +1,15 @@
-<h2 align="left">Hi there, I'm Mohamed 👋, an aspiring DevOps and Cloud Engineer with a background in Data Science, and digital marketing. I'm passionate about automating infrastructure and streamlining software delivery processes. I'm currently focused on honing my skills and gaining hands-on experience in CI/CD pipelines, containerization, cloud computing, and configuration management.</h2>
-<h3 align="center">A passionate DevOps, Cloud Engineer, Data Scientist, Digital Marketer</h3>
+<h2 align="left">Hi there, I'm Mohamed 👋, Highly motivated and versatile IT professional with expertise in DevOps, Django development, and data
+science. Proven ability to automate infrastructure, build robust deployment pipelines, and leverage data
+insights to drive business growth. A strong advocate for collaboration, I have a successful track record of
+delivering reliable and scalable solutions across diverse technical domains. Passionate about utilizing cloud
+technologies to achieve innovation and cost optimization.</h2>
+<h3 align="center">A passionate DevOps | Cloud Engineer | Django Developer | Data Scientist | Digital Marketer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beko3110&label=Profile%20views&color=0e75b6&style=flat" alt="beko3110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beko3110" alt="beko3110" /></a> </p>
 
-- 🔭 I’m currently working as [Marketing Manager](https://www.c2c-consultancy.com), and Freelancer Devops Engineer, Data Scientist.
+- 🔭 I’m currently working as Devops Engineer, Data Scientist.
 
 - 🌱 I’m currently learning **MLOps Engineering**
 
